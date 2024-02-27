@@ -1,3 +1,9 @@
+# Question Answered 
+## Part III
+Setup an AKS cluster and Azure SQL Database 
+Write a terraform code to deploy an AKS cluster running on two nodes that should  be deployed into a new Azure Virtual Network.
+
+
 # AKS Cluster and Azure SQL Database Deployment
 
 This Terraform configuration deploys an Azure Kubernetes Service (AKS) cluster with two nodes, and an Azure SQL Database.
